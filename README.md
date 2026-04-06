@@ -7,7 +7,7 @@
 
 ## Опубликованный сайт
 
-(Сам сайт)[https://remik202.github.io/library_layout/]
+[Сам сайт](https://remik202.github.io/library_layout/)
 
 ## Запуск
 
